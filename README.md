@@ -2,6 +2,8 @@
 
 Highlight texts with regex!
 
+> This packages needs `String.prototype.matchAll` to work properly. Check out availability on [caniuse](https://caniuse.com/#feat=mdn-api_cache_matchall) before use.
+
 ## Example and Usage
 
 [Codesandbox Demo](https://codesandbox.io/s/react-highlight-regex-demo-mj1jm)
